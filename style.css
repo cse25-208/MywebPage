@@ -34,3 +34,33 @@ body{
  color: #EDEDED;
 }
    
+.navbar{
+  display: flex;
+  justify-content: center;   
+  margin: 50px 0;
+  gap: 40px; 
+  clear: both;
+  
+}
+
+.navbar a.active{
+ background: #2F4F4F;
+ border-radius: 20px;
+ color: white;
+ 
+
+}
+ 
+.navbar a{
+  text-decoration: none;
+  color: #EDEDED;
+  padding: 10px 20px;
+  border-radius: 20px;
+  transition: background color 0.3s, transform 0.5s;
+ 
+}
+
+.navbar a:hover {
+  background-color: #1E1E1E;
+  transform: translateY(-2px); 
+} 
