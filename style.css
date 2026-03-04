@@ -85,3 +85,10 @@ body{
     line-height: 1.8;
     color: #e0f2f1;
 }
+
+.email-link{
+    color: #EDEDED;
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s ease;
+}
