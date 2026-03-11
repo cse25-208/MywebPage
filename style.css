@@ -107,3 +107,9 @@ section {
   width: 70%;
 }
 
+img{
+
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+}
