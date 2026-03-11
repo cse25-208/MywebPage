@@ -100,11 +100,9 @@ main {
 }
 
 aside {
-  width: 30%;
+  width: 40%;
   padding: 20px;
   background-color: #2a2a2a;
-  display: block;
-  float: left;
 }
 
 section {
@@ -125,6 +123,6 @@ section {
  .overlay{
     padding: 15px;
     margin-top: 20px;
-
+    width: 60%;
     
 }
