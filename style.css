@@ -107,11 +107,12 @@ section {
   width: 70%;
 }
 
-img{
+aside {
 
    width: 250px;       /* smaller card size */
   height: auto;
   border-radius: 12px;
   margin: 10px;
   display: block;
+  
 }
