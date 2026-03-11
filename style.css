@@ -109,7 +109,9 @@ section {
 
 img{
 
-  width: 100%;
+   width: 250px;       /* smaller card size */
   height: auto;
-  border-radius: 10px;
+  border-radius: 12px;
+  margin: 10px;
+  display: block;
 }
